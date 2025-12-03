@@ -2,7 +2,7 @@
 
 <img width="893" height="502" alt="Screenshot 2025-11-28 025843" src="https://github.com/user-attachments/assets/e313a005-ef1c-4dd5-8dd1-857936279b41" />
 
-## ## 📝 **1. Project Overview & Business Context**
+ ## 📝 **1. Project Overview & Business Context**
 
 **Report Name:** **Data Survey Report – Power BI Dashboard**
 
@@ -18,7 +18,7 @@ To analyze global data professionals’ demographics, salary trends, programming
 
 ---
 
-## ## 🔗 **2. Data Source and Connection Details**
+ ## 🔗 **2. Data Source and Connection Details**
 
 **Primary Data Source:**
 
@@ -31,7 +31,7 @@ To analyze global data professionals’ demographics, salary trends, programming
 
 ---
 
-## ## 📂 **3. Report Structure and Key Metrics**
+ ## 📂 **3. Report Structure and Key Metrics**
 
 **Number of Pages:** **1 (Single-page dashboard)**
 
@@ -65,7 +65,7 @@ To analyze global data professionals’ demographics, salary trends, programming
 
 ---
 
-## ## 🔄 **4. Data Refresh and Maintenance**
+ ## 🔄 **4. Data Refresh and Maintenance**
 
 **Refresh Frequency:**
 
@@ -85,7 +85,7 @@ To analyze global data professionals’ demographics, salary trends, programming
 
 ---
 
-## ## ⚙️ **5. Technical Specifications**
+ ## ⚙️ **5. Technical Specifications**
 
 **Power BI Desktop Version:**
 
@@ -105,7 +105,7 @@ To analyze global data professionals’ demographics, salary trends, programming
 
 ---
 
-## ## 📌 **Summary**
+ ## 📌 **Summary**
 
 This Power BI dashboard transforms raw survey data into a structured, insightful, and interactive visual analytics report. It helps stakeholders understand global participation, salary trends, preferred programming languages, and the overall experience of professionals entering the data industry. The report is optimized for clarity, user-friendly navigation, and executive-level insights.
 

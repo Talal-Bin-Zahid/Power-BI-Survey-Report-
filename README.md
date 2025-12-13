@@ -111,8 +111,3 @@ This Power BI dashboard transforms raw survey data into a structured, insightful
 
 ---
 
-If you want, I can also generate:
-✅ A **report_documentation.md**
-✅ A **project description for GitHub**
-✅ A **visual explanation for each chart**
-Just tell me!

@@ -8,7 +8,7 @@
 
 **Data Survey Report: Insights from a Global Volunteer Community**
 
-This repository presents a comprehensive analysis of a global data survey conducted among volunteers. The report explores demographic distribution, professional preferences, salary benchmarks, career entry difficulty, and satisfaction levels within the data domain. All insights are derived directly from the accompanying Power BI dashboard visualization.
+This is a comprehensive analysis of a global data survey conducted among volunteers. The report explores demographic distribution, professional preferences, salary benchmarks, career entry difficulty, and satisfaction levels within the data domain. All insights are derived directly from the accompanying Power BI dashboard visualization.
 
 ---
 

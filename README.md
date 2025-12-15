@@ -2,112 +2,93 @@
 
 <img width="893" height="502" alt="Screenshot 2025-11-28 025843" src="https://github.com/user-attachments/assets/e313a005-ef1c-4dd5-8dd1-857936279b41" />
 
- ## 📝 **1. Project Overview & Business Context**
+ # 📊 Data Survey Report – Volunteer Insights Dashboard
 
-**Report Name:** **Data Survey Report – Power BI Dashboard**
+## 1. Title and Overview
 
-**Purpose/Goal:**
-To analyze global data professionals’ demographics, salary trends, programming language preferences, and career challenges. The dashboard provides clear insights that help organizations understand workforce patterns and skills distribution across the data industry.
+**Data Survey Report: Insights from a Global Volunteer Community**
 
-**Target Audience:**
-
-* HR & Talent Acquisition Teams
-* Data & Analytics Managers
-* Academic Institutions
-* Workforce Planning & Strategy Teams
+This repository presents a comprehensive analysis of a global data survey conducted among volunteers. The report explores demographic distribution, professional preferences, salary benchmarks, career entry difficulty, and satisfaction levels within the data domain. All insights are derived directly from the accompanying Power BI dashboard visualization.
 
 ---
 
- ## 🔗 **2. Data Source and Connection Details**
+## 2. Key Summary Statistics (KPIs & Facts)
 
-**Primary Data Source:**
+- **👥 Number of Volunteers:** **630**
+- **🎂 Average Age of Volunteers:** **29.87 years**
 
-* Excel workbook: **Dataset.xlsx / Dataset (1).xlsx** (Survey data collected from global respondents)
-
-**Data Gateway:**
-
-* **No Gateway Required**
-  Data is file-based and fully refreshed manually inside Power BI Desktop.
+These KPIs provide a high-level snapshot of the survey population and form the foundation for deeper analysis.
 
 ---
 
- ## 📂 **3. Report Structure and Key Metrics**
+## 3. Data Deep Dive – Key Findings
 
-**Number of Pages:** **1 (Single-page dashboard)**
-
-### **Key Dashboard Areas**
-
-* **Country of Residence** (Treemap)
-* **Favorite Programming Language** (Clustered column chart)
-* **Average Salary by Designation** (Bar chart)
-* **Difficulty to Break Into Data Field** (Donut chart)
-* **Average Age of Volunteer** (Card)
-* **Number of Volunteers** (Card)
-* **Satisfaction with Working Environment** (Gauge)
-* **Satisfaction with Salary** (Gauge)
-
-### **Core Metrics (KPIs)**
-
-* Average Age of Participants
-* Total Number of Volunteers
-* Average Salary by Job Role
-* Satisfaction Scores
-* Preferred Programming Languages
-* Difficulty Level Distribution (Easy, Difficult, Neutral, etc.)
-
-### **Visualizations of Note**
-
-* **Treemap** for geographic distribution of respondents
-* **Donut chart** for difficulty metrics
-* **Gauge visuals** for satisfaction indicators
-* **Multi-category bar charts** for programming language count
-* **Shaded bar chart** for salary comparisons by job designation
+### 🌍 Country of Residence
+The survey reflects a diverse, international volunteer base:
+- **Canada**
+- **India**
+- **United States**
+- **United Kingdom**
+- **Other regions** collectively represent a significant portion, highlighting broad global participation.
 
 ---
 
- ## 🔄 **4. Data Refresh and Maintenance**
+### 💻 Favorite Programming Language
+Based on vote counts from the survey:
+- **Python** – Most preferred language (dominant stacked bar, ~365 total votes)
+- **R** – 61 votes
+- **Other Languages** – 60 votes  
 
-**Refresh Frequency:**
-
-* **Manual refresh** only (Excel-based source)
-
-**Dataset Name in Power BI Service:**
-
-* *Data_Survey_Dataset*
-
-**Workspace Location:**
-
-* *Data Analytics & Reporting Workspace* (optional if published)
-
-**Owner/Maintainer:**
-
-* **Global Analytics – Power BI Development Team**
+Python clearly stands out as the industry-favored language among volunteers.
 
 ---
 
- ## ⚙️ **5. Technical Specifications**
+### 💰 Average Salary by Designation
+Top three highest-paid roles (average salary units as shown in the report):
 
-**Power BI Desktop Version:**
+| Designation       | Average Salary |
+|------------------|----------------|
+| Data Scientist   | 94             |
+| Data Engineer    | 65             |
+| Data Architect   | 64             |
 
-* Latest version at time of development (2024+ recommended)
-
-**DAX Complexity:**
-
-* **Low to Moderate**
-
-  * Mainly aggregations: COUNT, AVERAGE, DISTINCTCOUNT
-  * Basic calculated measures for satisfaction scores, age calculations, and totals
-
-**Row-Level Security (RLS):**
-
-* **Not Implemented**
-  (Dataset is survey-based and does not require access restriction)
+This highlights the premium placed on advanced analytical and engineering roles.
 
 ---
 
- ## 📌 **Summary**
+### 🚧 Difficulty to Break into Data
+Perception of entry difficulty into the data field:
 
-This Power BI dashboard transforms raw survey data into a structured, insightful, and interactive visual analytics report. It helps stakeholders understand global participation, salary trends, preferred programming languages, and the overall experience of professionals entering the data industry. The report is optimized for clarity, user-friendly navigation, and executive-level insights.
+- **Very Difficult:** 269 (43%) ✅ *Most common response*
+- **Difficult:** 156 (25%)
+- **Neither easy nor difficult:** 134 (21%)
+- **Easy:** 44 (7%)
+- **Very Easy:** 27 (4%)
+
+The majority perceive entering the data field as challenging, emphasizing the need for skill development and guided learning paths.
+
+---
+
+## 4. Volunteer Satisfaction Metrics
+
+Average satisfaction scores (out of 10):
+
+- **😊 Satisfied with Working Environment:** **5.86 / 10**
+- **💵 Satisfied with Salary:** **4.27 / 10**
+
+While work environments score moderately, salary satisfaction is notably lower, indicating potential areas for organizational improvement.
+
+---
+
+## 5. Technical Details & Tools
+
+- **Visualization Tool:** Microsoft **Power BI**
+- The dashboard integrates multiple visual elements including bar charts, donut charts, KPIs, and gauges to deliver a clear and interactive analytical experience.
+
+---
+
+## 📌 Conclusion
+This Data Survey Report offers valuable insights into the global data community, revealing trends in skills, compensation, career challenges, and satisfaction. It serves as a useful reference for aspiring data professionals, educators, and organizations seeking data-driven workforce insights.
 
 ---
 
